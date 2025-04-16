@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #b0d8e1;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+}
+
+header {
+    background-color: gray;
+    padding: 20px;
+    color: white;
+}
+
+#congrats {
+    font-size: 18px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+    margin-top: 10px;
+}
+
+#hidden {
+    color: #b0d8e1;
+    padding: 10px;
+    font-size: 14px;
+}
